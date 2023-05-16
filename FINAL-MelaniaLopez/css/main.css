@@ -1,0 +1,27 @@
+body{font-size: .85rem;}
+header{height: 125px;}
+h1 img{width: 90px;}
+.card{ min-width: 250px ; height: auto; border: 1px solid #999; padding: 8px; display: inline-block;margin: 0 1.1rem 1.5rem 1.2rem;}
+.card img{ width: 100%; border-radius: 5px;}
+.card .card-footer {border-top: 1px dashed #009182; background-color: #eaf8f7;}
+.cart-wrapper {   position: fixed; top:1px; right:1px; width: 265px; padding: .5rem; border: 1px solid #dee2e6; background: #fff;}
+.comprar-ahora{margin-bottom: 1rem;}
+.cart-buy { padding-bottom: 5px;}
+.cart-buy strong {display: block;}
+.chosen-item {  width: 100%;  padding: 0 .5rem; margin-bottom: .25rem; position: relative;}
+.chosen-item + .chosen-item {margin-top: 5px;}
+.chosen-item h3{ font-size: .9rem; margin-bottom:.25rem; font-weight: bold;}
+h3{font-size: 1rem; color: #000;}
+.propiedad{color: #009182; margin-bottom:0 }
+.chosen-item p{margin-bottom: 0; font-size: .75rem;}
+.chosen-item:last-child{margin-bottom: 0;}
+.border{ border:1px solid red!important}
+button.toast-close{color: #fff!important; padding: 0 0 0 5px; border: none; opacity:.8}
+.btn-danger.close{font-size: .65rem; padding:1px 5px; position: absolute; right: 4%;}
+.comprar-ahora strong{ font-size: .95rem; }
+#confirmacion{padding: 1.5rem 1rem; background-color:#F8F9FA;}
+#confirmacion h3{ font-weight: 400; font-size: 1rem; text-align: center;}
+.carrito-icon{background-color:#F8F9FA; margin-bottom: 10px;}
+.carrito-icon span{font-size: 24px; font-weight: bold;color:#009182; padding: 0 5px 0 10px }
+.bi-cart-fill{font-size: 26px; color:#009182 ; display: inline-block; margin: 5px 0}
+.bi-clock-fill{ font-size: 26px ; color:#009182}

@@ -1,0 +1,115 @@
+[
+  {
+    "nombre": "Shampoo Carica",
+    "precio": 6000,
+    "img": "shampoo-carica.png",
+    "id": "1",
+    "propiedad": "Antigrasa",
+    "categoria": {
+      "nombre": "shampoos",
+      "id": "Shampoos"
+    }
+  },
+  {
+    "nombre": "Shampoo Monteverde",
+    "precio": 6500,
+    "img": "shampoo-monteverde.png",
+    "id": "2",
+    "propiedad": "Caspa",
+    "categoria": {
+      "nombre": "shampoos",
+      "id": "Shampoos"
+    }
+  },
+  {
+    "nombre": "Shampoo Guaria",
+    "precio": 6000,
+    "img": "shampoo-guaria.png",
+    "id": "2",
+    "propiedad": "Crecimiento",
+    "categoria": {
+      "nombre": "shampoos",
+      "id": "Shampoos"
+    }
+  },
+  {
+    "nombre": "Shampoo Vainilla",
+    "precio": 7000,
+    "img": "shampoo-vainilla.png",
+    "id": "4",
+    "propiedad": "Humectante",
+    "categoria": {
+      "nombre": "shampoos",
+      "id": "Shampoos"
+    }
+  },
+  {
+    "nombre": "Shampoo Tangerine",
+    "precio": 6500,
+    "img": "shampoo-tangerine.png",
+    "id": "5",
+    "propiedad": "Detox",
+    "categoria": {
+      "nombre": "shampoos",
+      "id": "Shampoos"
+    }
+  },
+  {
+    "nombre": "Rinse Carica",
+    "precio": 5000,
+    "img": "rinse-carica.png",
+    "id": "6",
+    "propiedad": "Antigrasa",
+    "categoria": {
+      "nombre": "Rinses",
+      "id": "rinses"
+    }
+  },
+  {
+    "nombre": "Rinse Monteverde",
+    "precio": 6500,
+    "img": "rinse-monteverde.png",
+    "id": "7",
+    "propiedad": "Caspa",
+    "categoria": {
+      "nombre": "Rinses",
+      "id": "rinses"
+    }
+  },
+
+  {
+    "nombre": "Rinse Guaria",
+    "precio": 5500,
+    "img": "rinse-guaria.png",
+    "id": "8",
+    "propiedad": "Crecimiento",
+    "categoria": {
+      "nombre": "Rinses",
+      "id": "rinses"
+    }
+  },
+
+  {
+    "nombre": "Rinse Vainilla",
+    "precio": 7000,
+    "img": "rinse-vainilla.png",
+    "id": "9",
+    "propiedad": "Humectante",
+    "categoria": {
+      "nombre": "Rinses",
+      "id": "rinses"
+    }
+  },
+
+  {
+    "nombre": "Rinse Tangerine",
+    "precio": 6000,
+    "img": "rinse-tangerine.png",
+    "id": "10",
+    "propiedad": "Detox",
+    "categoria": {
+      "nombre": "Rinses",
+      "id": "rinses"
+    }
+  }
+]
